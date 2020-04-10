@@ -1,0 +1,126 @@
+.wrap{
+	margin: 0 auto;
+	font-family: 微軟正黑體;
+	text-align: center;
+	width: 1000px;
+}
+.top{
+	padding: 50px 200px 50px 200px;
+	height: 150px;
+	background: #424242;
+	text-align: center;
+	margin: 0 auto;
+
+}
+.input{
+	height: 100px;
+}
+.word{
+	float:left;
+	margin-right: 30px;
+	color: #ffd366;
+}
+.word1{
+	float:left;
+	margin-right: 30px;
+	margin-top:10px;
+	color: #ffd366;
+}
+.input .img{
+	width: 117px;
+	float: left;
+}
+.textarea{
+	float: left;
+	padding-left: 83px;
+	height: 150px;
+	width: 400px;
+}
+.tall,.weight{
+	float: left;
+	
+	height:24px;
+	font-family: 微軟正黑體;
+	font-size: 20px;
+}
+.btn{
+	float: right;
+	width: 117px;
+	height: 117px;
+	font-size: 25px;
+	font-family: 微軟正黑體;
+	border-radius:50%;
+	outline: none;
+	background: #ffd366;
+}
+.btn:active{
+	color: white;
+}
+.content{
+	padding: 50px 50px 50px 50px;
+	background:#f5f5f5;
+	text-align: center;
+	margin: 0 auto;
+	font-size: 25px;
+}
+.list{
+	padding: 5px 0 5px 0;
+	
+	margin: 0 auto;
+}
+.list .input{
+	height: 40px;
+	padding: 10px;
+	background: white;
+	margin:15px;
+}
+
+.list .result{
+	float: left;
+	margin:10px;
+	
+	font-family: 微軟正黑體;
+	font-size: 20px;
+	width: 180px;
+	text-align: left;
+}
+
+.list .bmi,.list .tall,.list .weight{
+	float: left;
+	margin:10px;
+	width: 150px;
+	font-family: 微軟正黑體;
+	font-size: 20px;
+}
+.list .date{
+	font-size: 15px;
+	float: left;
+	margin: 13px 0 0 10px;
+}
+.list .del{
+	float: right;
+	font-size: 16px;
+	font-family: 微軟正黑體;
+	border-radius:15%;
+	outline: none;
+	height: 30px;
+	width: 50px;
+	background: #ffd366;
+	margin-top: 5px;
+}
+.list .del:active{
+	color:white;
+}
+
+.buttom{
+	padding: 50px 200px 50px 200px;
+	height: 100px;
+	background: #ffd366;
+	text-align: center;
+}
+.buttom img{
+	
+	width: 117px;
+	height: 117px;
+	border-radius: 10% 
+}
